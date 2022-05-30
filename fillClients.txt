@@ -1,0 +1,20 @@
+  Name: Josh
+ Surname: Smith
+ Login: joshsmith@gmail.com
+ Password: password
+
+ Name: Kitagawa
+ Surname: Sedze
+ Login: potomoro@mail.com
+ Password: iLikeDogs
+
+ Name: Zhangir
+ Surname: Kuanyshev
+ Login: kazakhmen@yandex.ru
+ Password: beshparmak
+
+ Name: Lozlo
+ Surname: Ranimger
+ Login: lozlo@gmail.com
+ Password: qwerty
+

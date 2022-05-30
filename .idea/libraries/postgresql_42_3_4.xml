@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="postgresql-42.3.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../postgresql-42.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../protobuf-java-3.19.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

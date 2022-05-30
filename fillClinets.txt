@@ -1,0 +1,45 @@
+Josh car list: []
+  Name: Josh
+ Surname: Smithn Login: joshsmith@gmail.com
+ Password: password
+
+Zhangir car list: []
+  Name: Zhangir
+ Surname: Kuanyshevn Login: kazakhmen@yandex.ru
+ Password: beshparmak
+
+Lozlo car list: []
+  Name: Lozlo
+ Surname: Ranimgern Login: lozlo@gmail.com
+ Password: qwerty
+
+lolo car list: []
+  Name: lolo
+ Surname: kolon Login: lolo@mail.ru
+ Password: 12345
+
+Josh car list: []
+  Name: Josh
+ Surname: Smithn Login: joshsmith@gmail.com
+ Password: password
+
+Kitagawa car list: []
+  Name: Kitagawa
+ Surname: Sedzen Login: potomoro@mail.com
+ Password: iLikeDogs
+
+Zhangir car list: []
+  Name: Zhangir
+ Surname: Kuanyshevn Login: kazakhmen@yandex.ru
+ Password: beshparmak
+
+Lozlo car list: []
+  Name: Lozlo
+ Surname: Ranimgern Login: lozlo@gmail.com
+ Password: qwerty
+
+Elnaz car list: []
+  Name: Elnaz
+ Surname: Almasulyn Login: elnaz@gmail.com
+ Password: 12345
+

@@ -1,0 +1,12 @@
+ Name of auto part: Winter tires
+Description: New Japanese winter tires with minimal wear.
+Price: 150000
+
+Name of auto part: Subaru legacy engine
+Description: Subaru legacy turbo engine from Japan. Warranty. Mileage up to a hundred thousand. It is possible to install. Sending to regions.
+Price: 250000
+
+Name of auto part: Car headlight
+Description: On sale the original headlight (under xenon) on the infiniti FX35 2003-2007.
+Price: 130000
+

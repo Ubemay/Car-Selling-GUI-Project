@@ -1,0 +1,10 @@
+Toyota  Camry', Country: Japan', Price: 30000
+
+Lexus  RX 300', Country: Japan', Price: 35000
+
+Mercedes-Benz  S 500', Country: Germany', Price: 35000
+
+BMW  X7', Country: Germany', Price: 50000
+
+Kia  Rio', Country: South Korea', Price: 20000
+
